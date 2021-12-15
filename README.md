@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+### 🔭 I’m currently working on cool stuff
 <p>My Current Portfolio of items:</p>
               <li><a href="https://musiceventmaker.herokuapp.com/">Music Event Management system</a></li>
               <li><a href="https://mytravelsapp.herokuapp.com/">International Travel Website Prototype</a></li>
@@ -14,7 +15,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on cool stuff
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
