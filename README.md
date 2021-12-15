@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AJavaScript-logo.png&psig=AOvVaw30HEF4gzxMs6SLH_HYFSYz&ust=1639625473083000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDGoYHv5PQCFQAAAAAdAAAAABAD" alt="peng ting" width="500" height="600">
+<img src="peng_ting.jpg" alt="peng ting" width="500" height="600">
+<img src="peng_ting.jpg" alt="peng ting" width="500" height="600">
