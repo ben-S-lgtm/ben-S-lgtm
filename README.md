@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<p>Current Portfolio:</p>
+              <li><a href="https://musiceventmaker.herokuapp.com/">Music Event Management system</a></li>
+              <li><a href="https://mytravelsapp.herokuapp.com/">International Travel Website Prototype</a></li>
+              <li><a href="https://odysseyworlds.herokuapp.com/">Web3 and blockchain connected application</a></li>
 <!--
 **ben-S-lgtm/ben-S-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
