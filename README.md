@@ -1,10 +1,7 @@
 ### Hi there 👋 
 <p>My Current Portfolio of items:</p>
-<p>1. Web Based</p>
 
-              <li><a href="https://musiceventmaker.herokuapp.com/">Music Event Management system</a></li>
-              <li><a href="https://mytravelsapp.herokuapp.com/">International Travel Website Prototype</a></li>
-              <li><a href="https://odysseyworlds.herokuapp.com/">Web3 and blockchain connected application</a></li>
+
 
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="peng ting" width="500" height="600"> -->
 
