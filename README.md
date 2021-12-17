@@ -5,8 +5,13 @@
 <li><a href="https://mytravelsapp.herokuapp.com/">International Travel Website Prototype</a></li>
 <li><a href="https://odysseyworlds.herokuapp.com/">Web3 and blockchain connected application</a></li>
 <li><a href="https://github.com/ifbhack/WorkTracker">Hackathon Participant</a></li>
+<li><a href="https://ben-s-lgtm.github.io/Stuff/snake.html">Classic Video game Snake in the browser</a></li>
 
+<br/>
 
+<p>Software based:</p>
+<li><a href="https://github.com/ben-S-lgtm/Stuff/blob/main/donut.c">Rendering a 3D Donut in C terminal</a></li>
+<li><a href="#">Image detection and coordinate mapping in python</a></li>
 
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="peng ting" width="500" height="600"> -->
 
