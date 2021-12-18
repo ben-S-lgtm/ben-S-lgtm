@@ -11,8 +11,8 @@
 
 <p>Software based:</p>
 <li><a href="https://github.com/ben-S-lgtm/Stuff/blob/main/donut.c">Rendering a 3D Donut in C terminal</a></li>
-<li><a href="#">Image detection and coordinate mapping in python</a></li>
-<li><a href="#">Extracting text from Images and translating the words to english</a></li>
+<li><a href="#">Movement detection and coordinate mapping in python</a></li>
+<li><a href="#">Extracting text from Images and translating to English</a></li>
 
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="peng ting" width="500" height="600"> -->
 
