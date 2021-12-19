@@ -1,4 +1,5 @@
 ### Hi there 👋 
+
 I make cool things with code :)
 <p>My Current Portfolio of items</p>
 <p>Web based:</p>
@@ -15,11 +16,15 @@ I make cool things with code :)
 <li><a href="https://github.com/ben-S-lgtm/Stuff/blob/main/donut.c">Rendering a 3D Donut in C terminal</a></li>
 <li><a href="#">Movement detection and coordinate mapping in python</a></li>
 <li><a href="#">TensorFlow AI ChatBot (Prototype)</a></li>
+<!--
+<br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="peng ting" width="150" height="150">
+<br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="peng ting" width="150" height="150">
+<br/>
+<img src="" alt="peng ting" width="150" height="150">
 
-
-<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="peng ting" width="500" height="600"> -->
-
-
+-->
 
 
 <!--
