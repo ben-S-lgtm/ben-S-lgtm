@@ -7,6 +7,7 @@ I make cool things with code :)
 <li><a href="https://odysseyworlds.herokuapp.com/">Web3 and blockchain connected application</a></li>
 <li><a href="https://github.com/ifbhack/WorkTracker">Hackathon Participant</a></li>
 <li><a href="https://ben-s-lgtm.github.io/Stuff/snake.html">Playable Snake game in the browser</a></li>
+ <li><a href="#">Chat Application is Node.js and Gun.js</a></li>
 
 <br/>
 
