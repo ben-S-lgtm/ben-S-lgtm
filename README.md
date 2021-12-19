@@ -1,4 +1,5 @@
 ### Hi there 👋 
+I make cool things with code :)
 <p>My Current Portfolio of items</p>
 <p>Web based:</p>
 <li><a href="https://musiceventmaker.herokuapp.com/">Music Event Management system - Group Project</a></li>
