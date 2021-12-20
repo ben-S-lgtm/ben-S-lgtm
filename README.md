@@ -14,7 +14,7 @@ I make cool things with code :)
 
 <p>Software based:</p>
 <li><a href="https://github.com/ben-S-lgtm/Stuff/blob/main/donut.c">Rendering a 3D Donut in C terminal</a></li>
-<li><a href="#">Movement detection and coordinate mapping in python</a></li>
+<li><a href="#">Image analysis, Movement detection and coordinate mapping in python</a></li>
 <li><a href="#">TensorFlow AI ChatBot (Prototype)</a></li>
 <!--
 <br/>
