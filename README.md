@@ -1,8 +1,8 @@
 ### Hi there 👋 
+<!-- 
+Here's my Website: https://bensimmers.live/index.html -->
 
-Here's my Website: https://bensimmers.live/index.html
-
-I make cool things with code :)
+I make cool things :)
 
 <!--
 **ben-S-lgtm/ben-S-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
