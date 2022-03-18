@@ -3,7 +3,11 @@
 Here's my Website: https://bensimmers.live/index.html -->
 
 I make cool things :)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben-S-lgtm)](https://github.com/ben-S-lgtm/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-S-lgtm)](https://github.com/ben-S-lgtm/github-readme-stats)
+
+
 <!--
 **ben-S-lgtm/ben-S-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
