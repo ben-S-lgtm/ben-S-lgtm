@@ -15,7 +15,6 @@ Currently Enrolled at QUT studying Information Technology Majoring in Computer S
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-S-lgtm&langs_count=8)](https://github.com/ben-S-lgtm/github-readme-stats)
-![ben-S-lgtm GitHub stats](https://github-readme-stats.vercel.app/api?username=ben-S-lgtm&show_icons=true&theme=gruvbox)
 <br/>
 My favourite Languages <br/>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
