@@ -5,8 +5,7 @@
 I'm Ben and I make cool things :)
 <br/>
 Currently Enrolled at QUT studying Information Technology Majoring in Computer Science and Minoring in IoT/Mobile Technologies
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ben-S-lgtm&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-S-lgtm&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ben-S-lgtm/ben-S-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
