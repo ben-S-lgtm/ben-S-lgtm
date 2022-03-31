@@ -2,7 +2,8 @@
 <!-- 
 Here's my Website: https://bensimmers.live/index.html -->
 
-I make cool things :)
+Hi I'm Ben, I make cool things :)
+Currently Enrolled at QUT studying Information Technology Majoring in Computer Science and Minoring in IoT/Mobile Technologies
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-S-lgtm)](https://github.com/ben-S-lgtm/github-readme-stats)
