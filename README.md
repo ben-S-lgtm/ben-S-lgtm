@@ -8,9 +8,9 @@ Hi I'm Ben, I make cool things :)
 <br/>
 Currently Enrolled at QUT studying Information Technology Majoring in Computer Science and Minoring in IoT/Mobile Technologies
 
-
+<center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-S-lgtm)](https://github.com/ben-S-lgtm/github-readme-stats)
-
+</center>
 
 <!--
 **ben-S-lgtm/ben-S-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
