@@ -71,10 +71,10 @@
 
 
 
-Visual affects<br/>
+Visual Affects<br/>
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)<br/>
-Visual Effects Portfolio: 
+Visual Affects Portfolio: 
 https://ben-s-lgtm.github.io/VFX-Portfolio/
 
 
