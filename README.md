@@ -94,7 +94,7 @@ Gaming<br/>
     <a href="https://instagram.com/ben._.simm3rs" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="ben._.simm3rs" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/benjamin (ben) simmers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamin (ben) simmers" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/benjamin-simmers-45385b236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamin (ben) simmers" height="30" width="40" /></a>
 </p>
 
 
