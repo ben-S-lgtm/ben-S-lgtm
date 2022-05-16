@@ -77,12 +77,12 @@ Visual Affects<br/>
 Visual Affects Portfolio: 
 https://ben-s-lgtm.github.io/VFX-Portfolio/
 
-
+<!--
 Gaming<br/>
 ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/@benunknownuser" target="blank"><img align="center"
