@@ -64,10 +64,10 @@
 <br/>
 
 <p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=ben-s-lgtm&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=BenSimmers&show_icons=true&locale=en&layout=compact"
         alt="ben-s-lgtm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ben-s-lgtm&" alt="ben-s-lgtm" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BenSimmers&" alt="ben-s-lgtm" /></p>
 
 
 
