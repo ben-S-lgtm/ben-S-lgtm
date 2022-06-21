@@ -73,9 +73,7 @@
 
 Visual Affects<br/>
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)<br/>
-Visual Affects Portfolio: 
-https://ben-s-lgtm.github.io/VFX-Portfolio/
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)<br/> 
 
 <!--
 Gaming<br/>
@@ -96,7 +94,6 @@ Gaming<br/>
             alt="ben._.simm3rs" height="30" width="40" /></a>
     <a href="https://www.linkedin.com/in/benjamin-simmers-45385b236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamin (ben) simmers" height="30" width="40" /></a>
 </p>
-
 
 
 
