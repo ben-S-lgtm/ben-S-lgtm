@@ -6,7 +6,7 @@
     in IoT/Mobile Technologies</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=ben-s-lgtm" alt="ben-s-lgtm" /></a> </p>
+            src="https://github-profile-trophy.vercel.app/?username=BenSimmers" alt="ben-s-lgtm" /></a> </p>
 
 
 <h3 align="center">Languages,Tools and Frameworks I have a basic to advanced Understanding of:</h3>
