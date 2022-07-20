@@ -63,6 +63,11 @@
 ![obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
 
 <hr/>
+<p><img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=BenSimmers&show_icons=true&locale=en&layout=compact"
+        alt="ben-s-lgtm" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BenSimmers&" alt="ben-s-lgtm" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
