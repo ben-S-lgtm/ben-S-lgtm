@@ -71,6 +71,17 @@
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
+
+
+
+
+
+<p><img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=bensimmers&show_icons=true&locale=en&layout=compact"
+        alt="bensimmers" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bensimmers&" alt="bensimmers" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/@yesitsmeben" target="blank"><img align="center"
@@ -86,12 +97,3 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="ben._.simm3rs" height="30" width="40" /></a>
 </p>
-
-
-
-
-<p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=bensimmers&show_icons=true&locale=en&layout=compact"
-        alt="bensimmers" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bensimmers&" alt="bensimmers" /></p>
