@@ -10,7 +10,7 @@
 
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages Tools and Frameworks I have used:</h3>
 <p align="center"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40"
             height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
