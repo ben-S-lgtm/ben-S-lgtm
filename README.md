@@ -4,7 +4,7 @@
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20@YesItsmeBen)](https://twitter.com/YesItsmeBen)
 
 <h1 align="center">Hi 👋, I'm Ben</h1>
-<h3 align="center">Currently Enrolled at QUT studying Information Technology Majoring in Computer Science and Minoring
+<h3 align="center">Currently Enrolled at QUT studying Information Technology majoring in Computer Science with a minor
     in IoT/Mobile Technologies. I'm a full-stack developer with a passion for Learning and building new things.</h3>
 
 
