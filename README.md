@@ -75,6 +75,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bensimmers&" alt="bensimmers" /></p>
 
+
+![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenSimmers&show_icons=true&theme=dark)
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/@yesitsmeben" target="blank"><img align="center"
