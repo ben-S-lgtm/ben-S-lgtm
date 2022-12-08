@@ -52,7 +52,7 @@
 ![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
 ![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
 ![Bootstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg)
-![]
+<img src="https://mui.com/static/logo.png" width="65" height="65"/>
 
 
 
