@@ -38,14 +38,10 @@
 
 ### Frameworks
 ![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
-
 ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
-
 ![Flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg)
 ![DotNet](https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg)
-
 ![Redis](https://www.vectorlogo.zone/logos/redis/redis-icon.svg)
-
 ![Express](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)
 ![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
 ![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
