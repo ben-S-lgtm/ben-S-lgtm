@@ -38,6 +38,7 @@
 ![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
 ![Windows](https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg)
+![MacOS](https://www.vectorlogo.zone/logos/apple/apple-icon.svg)
 ![VSCode](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg)
 ![IntelliJ](https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg)
 ![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
