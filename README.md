@@ -41,6 +41,7 @@
 ![VSCode](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg)
 ![IntelliJ](https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg)
 ![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
+![NeoVim](https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg)
 
 ### Frameworks
 ![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
