@@ -19,15 +19,15 @@
 ### Languages
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
-<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="65" height="65"/>
-<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="65" height="65"/>
-
 ![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
 ![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
 ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg)
 ![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
-
 ![Rust](https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg)
+<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="65" height="65"/>
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="65" height="65"/>
+
+
 
 ### Tools
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
