@@ -11,7 +11,48 @@
 
 ## Languages, Tools and Frameworks i have used:
 
-<!-- create a markdown Image for each one -->
+
+
+
+
+
+### Languages
+![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
+<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="65" height="65"/>
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="65" height="65"/>
+
+![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
+![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
+![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg)
+![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
+
+![Rust](https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg)
+
+### Tools
+![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg)
+![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)
+![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)
+
+### Frameworks
+![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
+
+![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
+
+![Flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg)
+![DotNet](https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg)
+
+![Redis](https://www.vectorlogo.zone/logos/redis/redis-icon.svg)
+
+![Express](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)
+![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
+![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+
+
+
+
 
 ### What I'm Currently Learning
 
