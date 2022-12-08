@@ -24,6 +24,7 @@
 ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg)
 ![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
 ![Rust](https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="140" height="65"/>
 <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="65" height="65"/>
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="65" height="65"/>
 
@@ -35,6 +36,11 @@
 ![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg)
 ![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)
 ![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)
+![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
+![Windows](https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg)
+![VSCode](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg)
+![IntelliJ](https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg)
+![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
 
 ### Frameworks
 ![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
@@ -45,7 +51,8 @@
 ![Express](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)
 ![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
 ![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
-
+![Bootstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg)
+![]
 
 
 
