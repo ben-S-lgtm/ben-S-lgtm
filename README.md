@@ -58,10 +58,6 @@
 
 
 
-
-### What I'm Currently Learning
-
-
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bensimmers&show_icons=true&locale=en&layout=compact" alt="bensimmers" /></p>
 
@@ -70,6 +66,8 @@
 
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenSimmers&show_icons=true&theme=dark)
 
+
+[![Ben's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/BenSimmers/github-readme-activity-graph)
 
 
 <h3 align="left">Connect with me:</h3>
