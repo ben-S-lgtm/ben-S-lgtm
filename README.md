@@ -59,9 +59,6 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bensimmers&layout=compact)
-
-
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenSimmers&show_icons=true&theme=dark)
 
 
