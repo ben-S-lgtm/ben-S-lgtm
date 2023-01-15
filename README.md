@@ -59,7 +59,7 @@
 
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bensimmers&show_icons=true&locale=en&layout=compact" alt="bensimmers" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bensimmers&layout=compact)](https://github.com/bensimmers/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bensimmers&" alt="bensimmers" /></p>
 
