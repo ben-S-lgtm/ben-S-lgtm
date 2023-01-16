@@ -24,7 +24,7 @@
 ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg)
 ![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
 ![Rust](https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg)
-<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="140" height="65"/> -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="140" height="65"/>
 <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="65" height="65"/>
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="65" height="65"/>
 
