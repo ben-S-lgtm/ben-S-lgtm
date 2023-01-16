@@ -21,7 +21,7 @@
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 ![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
 ![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
-![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="140" height="65">
 ![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
 ![Rust](https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg)
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="140" height="65"/>
@@ -29,7 +29,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="65" height="65"/>
 
 
-
+<!-- ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg) -->
 <!-- ![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg) -->
 <!-- ![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg) -->
 
