@@ -9,12 +9,7 @@
 
 
 
-## Languages, Tools and Frameworks i have used:
-
-
-
-
-
+<!-- ## Languages, Tools and Frameworks i have used:
 
 ### Languages
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
@@ -28,10 +23,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="65" height="65"/>
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="65" height="65"/>
 
-
-<!-- ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg) -->
-<!-- ![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg) -->
-<!-- ![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg) -->
 
 ### Tools
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
@@ -54,12 +45,9 @@
 ![Express](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)
 ![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
 ![Bootstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg)
-<img src="https://mui.com/static/logo.png" width="65" height="65"/>
+<img src="https://mui.com/static/logo.png" width="65" height="65"/> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensimmers"/>
-
-
-<!-- ![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensimmers&layout=compact"/>
 
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenSimmers&show_icons=true&theme=dark)
 
