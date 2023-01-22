@@ -52,7 +52,7 @@
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenSimmers&show_icons=true&theme=dark)
 
 
-![Ben's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BenSimmers&theme=react)
+<!-- ![Ben's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BenSimmers&theme=react) -->
 
 
 <h3 align="left">Connect with me:</h3>
