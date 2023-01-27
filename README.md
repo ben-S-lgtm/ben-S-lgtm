@@ -4,8 +4,16 @@
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20@YesItsmeBen)](https://twitter.com/YesItsmeBen)
 
 # Hi 👋, I'm Ben
-- Currently Enrolled at QUT studying Information Technology majoring in Computer Science. Working as a full-stack developer with a passion for Learning and building new things.
+### Currently Enrolled at QUT studying Information Technology majoring in Computer Science. Working as a full-stack developer with a passion for Learning and building new things.
 
+
+### Uses: TypeScript/JavaScript, React, Tailwind and NodeJS
+### Learning: DoNet Core, Rust
+
+<br/>
+
+
+<!-- 
 - What i usually use: <br/>
 ![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
 ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
@@ -18,7 +26,7 @@
 ![Rust](https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg)
 ![DotNet](https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg)
 
-
+ -->
 <!-- ## Languages, Tools and Frameworks i have used:
 
 ### Languages
