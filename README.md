@@ -8,7 +8,7 @@
 
 
 ### Uses: TypeScript/JavaScript, React, Tailwind and NodeJS
-### Learning: DoNet Core, Rust
+### Learning: DoNet Core, Rust, F#
 
 <br/>
 
