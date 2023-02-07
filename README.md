@@ -4,11 +4,11 @@
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20@YesItsmeBen)](https://twitter.com/YesItsmeBen)
 
 # Hi 👋, I'm Ben
-### Currently Enrolled at QUT studying Information Technology majoring in Computer Science. Working as a full-stack developer with a passion for Learning and building new things.
+#### Currently Enrolled at QUT studying Information Technology majoring in Computer Science. Working as a full-stack developer with a passion for Learning and building new things.
 
+Uses: TypeScript/JavaScript, React, Tailwind and NodeJS
 
-### Uses: TypeScript/JavaScript, React, Tailwind and NodeJS
-### Learning: DoNet Core, Rust, F#
+Learning: DotNet Core, Rust, F#
 
 <br/>
 
