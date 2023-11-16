@@ -1,6 +1,5 @@
 [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
 [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
-<!-- ![](https://komarev.com/ghpvc/?username=BenSimmers&style=flat-square) -->
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20@YesItsmeBen)](https://twitter.com/YesItsmeBen)
 
 # Hi 👋, I'm Ben
