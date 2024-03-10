@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! My name is Ben and I'm a fullskack developer, from Brisbane Australia</h2>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -23,7 +22,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/bensimmers/bensimmers/output/snake.svg" alt="Snake animation" />
 </div>
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/simmersbj">
