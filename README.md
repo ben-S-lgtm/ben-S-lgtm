@@ -1,96 +1,55 @@
-[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
-[![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20@YesItsmeBen)](https://twitter.com/YesItsmeBen)
+<h2 align="left">Hi 👋! My name is Ben and I'm a fullskack developer, Brisbane Australia</h2>
 
-# Hi 👋, I'm Ben
-Aussie fullstack software developer working in the world of Node and TypeScript while learning Go on the side.
+###
 
-Uses:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-<!-- 
-Learning: 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+</div>
 
--->
-<br/>
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bensimmers&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bensimmers&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<!-- 
-- What i usually use: <br/>
-![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
-![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
-![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="65" height="64">
-![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
+###
 
+<br clear="both">
 
-- What I'm Learning and using more: <br/>
-![Rust](https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg)
-![DotNet](https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg)
+<img src="https://raw.githubusercontent.com/bensimmers/bensimmers/output/snake.svg" alt="Snake animation" />
 
- -->
-<!-- ## Languages, Tools and Frameworks i have used:
+###
 
-### Languages
-![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
-![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
-![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
-![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="65" height="64">
-![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
-![Rust](https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg)
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="140" height="65"/>
-<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="65" height="65"/>
-<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="65" height="65"/>
+<div align="center">
+  <a href="https://open.spotify.com/user/simmersbj">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=simmersbj&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
+###
 
-### Tools
-![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg)
-![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
-![Windows](https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg)
-![MacOS](https://www.vectorlogo.zone/logos/apple/apple-icon.svg)
-![VSCode](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg)
-![IntelliJ](https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg)
-![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
-![NeoVim](https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg)
+<div align="center">
+  <a href="https://www.linkedin.com/in/benjamin-simmers-developer/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/YesItsmeBen" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/ben._.simmers/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="bej1380@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
-### Frameworks & Libraries
-![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
-![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
-![Flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg)
-![DotNet](https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg)
-![Redis](https://www.vectorlogo.zone/logos/redis/redis-icon.svg)
-![Express](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)
-![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
-![Bootstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg)
-<img src="https://mui.com/static/logo.png" width="65" height="65"/> -->
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensimmers&layout=compact"/>
-
-![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenSimmers&show_icons=true&theme=dark)
-
-
-<!-- ![Ben's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BenSimmers&theme=react) -->
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/@yesitsmeben" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="@yesitsmeben" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/benjamin-simmers-45385b236/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="benjamin (ben) simmers" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/ben.simmers.794/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="ben simmers" height="30" width="40" /></a>
-    <a href="https://instagram.com/ben._.simm3rs" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="ben._.simm3rs" height="30" width="40" /></a>
-</p>
+###
