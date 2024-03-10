@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ben and I'm a fullskack developer, Brisbane Australia</h2>
+<h2 align="left">Hi 👋! My name is Ben and I'm a fullskack developer, from Brisbane Australia</h2>
 
 ###
 
@@ -24,9 +24,9 @@
 ###
 
 <br clear="both">
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/bensimmers/bensimmers/output/snake.svg" alt="Snake animation" />
-
+</div>
 ###
 
 <div align="center">
