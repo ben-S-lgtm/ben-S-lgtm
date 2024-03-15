@@ -31,14 +31,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/simmersbj">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=simmersbj&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/benjamin-simmers-developer/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
