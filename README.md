@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋! My name is Ben and I'm a fullstack developer, from Brisbane Australia</h1>
-
-###
+<h1 align="center">Hi 👋! My name is Ben and I'm a fullstack developer, from Brisbane, Australia</h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -14,6 +12,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bensimmers/bensimmers/output/snake.svg" alt="Snake animation" />
+</div>
+
 ###
 
 <div align="center">
@@ -23,12 +25,7 @@
 
 ###
 
-<br clear="both">
-<div align="center">
-<img src="https://raw.githubusercontent.com/bensimmers/bensimmers/output/snake.svg" alt="Snake animation" />
-</div>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/benjamin-simmers-developer/" target="_blank">
