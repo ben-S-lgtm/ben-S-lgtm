@@ -1,5 +1,7 @@
-Hi, my name is Ben and I'm a software developer from Brisbane Australia/
+### Hi, my name is Ben and I'm a software developer from Brisbane Australia.
 
+
+Tools and Software I use on a daily basis: <br />
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
