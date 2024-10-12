@@ -1,4 +1,4 @@
-### Hi, my name is Ben and I'm a software developer from Brisbane Australia.
+### Hi, my name is Ben and I'm an Aussie software developer from Queensland.
 
 
 Tools and Software I use on a daily basis: <br />
