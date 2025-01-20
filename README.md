@@ -12,7 +12,7 @@
      \/__/         \/__/         \/__/     \/__/     \/__/    
 
 ```
-### Hi, my name is Ben and I'm an Aussie software developer from Queensland.
+### Hi, my name is Ben and I'm a software developer from Brisbane Australia.
 
 
 Tools and Software I use on a daily basis: <br />
